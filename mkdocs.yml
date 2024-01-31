@@ -1,4 +1,6 @@
 site_name: OpenQIDI
+repo_url: https://github.com/OpenQIDI/OpenQIDI
+repo_name: OpenQIDI/OpenQIDI
 theme: 
   name: material
   features:
